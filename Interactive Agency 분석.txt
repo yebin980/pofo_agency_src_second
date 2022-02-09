@@ -1,0 +1,129 @@
+<Interactive Agency 분석>
+URL - https://pofo.themezaa.com/home-classic-interactive-agency/
+
+전체 콘텐츠 영역 : 1170px (좌우 여백 : 0 15px 포함) -> 실제 콘텐츠 영역 1140px
+전체 각 Section별 패럴럭스 기능 모두 구현
+
+<Header>
+패럴럭스 기능
+스크롤이 아래로 내려가면 헤더가 위로 부드럽게 보이지 않을 때까지 올라가고
+스크롤이 위로 올라가면 헤더가 메뉴선택가능한 상태로 아래로 부드럽게 내려옴
+
+-style-
+1. addClass 만들어 스크롤 이벤트 높이 60px 적용
+#wrap #header.addH60 {height:60px;}
+#wrap #header.addH60.addHide {top:-60px;}
+#wrap #header.addH60.addShow {top:0;}
+
+2. html header에 class="addH60" 높이 적용 됐는지 확인 
+
+3. html header에 class="addH60 addHide" 적용 됐는지 확인
+
+4. html header에 class="addH60 addShow" 적용 됐는지 확인
+
+5. addH60 넣어 메뉴 높이 바꿔주기 기본 72px 스크롤 시 60px
+#wrap #header.addH60 .container .wrap .nav #nav > ul > li > a {height:60px;line-height:60px;}
+
+6. addH60 넣어 서브 메뉴 높이 바꿔주기 기본 72px 스크롤 시 60px
+#wrap #header.addH60 .container .wrap .nav #nav > ul > li > .sub {top:60px;}
+
+7. 메뉴, 서브메뉴 적용 됐는지 확인
+
+8. 제이쿼리 적용
+    $(Window).scroll(function(){
+        if( $(Window).scrollTop() == 0 ){
+            $('#header').removeClass('addH60');
+        }
+        else{
+            $('#header').addClass('addH60');
+        }
+    });
+
+9. style header에 transition:all .3s; 넣어 부드럽게 72px 에서 60px로 바꿈
+
+
+-----------------------------------------------------------------------------------------------
+width:100%
+height:60px
+좌측 : logo (가로:105px 세로:26px)
+
+중간우측
+-메인메뉴-
+padding:0 20px
+font:Montserrat
+font-size:12px
+font-weight:600
+color:#232323
+
+우측 : 아이콘 사이드메뉴 146px
+-서브메뉴-
+font:Montserrat
+font-size:12px
+font-weight:500
+color:#9d9d9d
+
+좌측박스 105(로고가로)
+우측박스 1140(패딩30px) - 105(로고가로) = 1035
+
+<Main>
+
+<Section1> 
+메인슬라이드 / 3개 이미지 / Full Screen 제작 / Dreg & Drop 기능 구현 / 일정시간 지나면 다시 플레이
+width:100%
+
+h3 font-size:18px font-weight:300
+h2 font-size:70px font-weight:700
+p a  font-size:12px font-weight:500 color:#232323 width:180 height:40
+
+<Section2>
+padding:130px 0
+background:#f7f7f7
+
+<Section3>
+padding:130px 0
+background:#1c1c1c
+
+<Section4> 반응형&액티비티 애니메이션 갤러리
+버튼 클릭에 따라 애니메이션 구현 되어 img 재배치, 너비에 따라 반응
+
+width:100%
+-메뉴-
+height:180px
+font-size:12px
+font-weight:600
+color:#6f6f6f
+decoration:underline
+padding-bottom:2px
+
+<Section5>
+padding:130px 0
+background:#fff
+
+<Section6> 
+width:100%
+padding:130px 0
+background:#fff
+img padding:0 5px 
+
+<Section7>
+width:100%
+padding:130px 0
+background:#fff
+img padding:0 15px 
+
+<Section8> 
+width:100%
+height:600.438px
+background:#1c1c1c
+
+<Section9>
+width:100%
+height:600.438px
+background:#fff
+
+<Section10>
+height:160px
+background:#ff214f
+
+<Footer>
+background:#1c1c1c

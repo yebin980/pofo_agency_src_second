@@ -1,0 +1,286 @@
+-HOME-
+CLASSIC HOMEPAGES
+Classic Corporate
+Classic Digital Agency
+Classic Innovation Agency
+Classic Web Agency
+Classic One Page
+Classic Start Up
+Classic Interactive Agency
+Classic Business
+Classic Shop
+
+CREATIVE HOMEPAGES
+Creative Studio
+Creative Business
+Creative Simple Portfolio
+Creative Branding Agency
+Creative Minimalist Portfolio
+Creative Small Business
+Creative Designer
+Creative Agency
+
+PORTFOLIO HOMEPAGES
+Portfolio Minimal
+Portfolio Multiple Carousel
+Portfolio Centered Slides
+Portfolio Personal
+Portfolio Metro
+Portfolio Full Screen – Vertical
+Portfolio Photographer
+Portfolio Parallax
+
+BLOG HOMEPAGES
+Blog Grid
+Blog Masonry
+Blog Clean
+Blog Personal
+
+sub2
+-PAGES-
+About 
+sub2-1
+    About Us Simple
+    About Us Classic
+    About Us Modern
+    About Me
+
+Services 
+sub2-2
+    Services Simple
+    Services Classic
+    Services Modern
+
+Contact 
+sub2-3
+    Contact Simple
+    Contact Classic
+    Contact Classic – Style 02
+    Contact Modern
+
+Team 
+sub2-4
+    Team Simple
+    Team Classic
+
+Addition Pages 
+sub2-5
+    Our Clients
+    Error 404
+    Coming Soon
+    Coming Soon – Style 02
+    Faq
+    Maintenance
+    Search Result
+    Pricing
+
+
+-PORTFOLIO-
+
+GRID – FULL WIDTH LAYOUTS
+Portfolio Grid Overlay
+Portfolio Grid With Icon
+Portfolio Grid Transform
+Portfolio Grid 
+
+MASONRY – FULL WIDTH LAYOUTS
+Portfolio Masonry Overlay
+Portfolio Masonry With Icon
+
+METRO – FULL WIDTH LAYOUTS
+Portfolio Metro Overlay
+Portfolio Metro With Icon
+Portfolio Metro Transform
+Portfolio Metro Zooming
+
+OTHER – FULL WIDTH LAYOUTS
+Portfolio Image Gallery
+Portfolio Justified
+Portfolio Carousel
+Portfolio Parallax
+-----------------------------------
+GRID – BOXED LAYOUTS
+Portfolio Grid Overlay
+Portfolio Grid With Icon
+Portfolio Grid Transform
+Portfolio Grid Zooming
+
+MASONRY – BOXED LAYOUTS
+Portfolio Masonry Overlay
+Portfolio Masonry With Icon
+
+METRO – BOXED LAYOUTS
+Portfolio Metro Overlay
+Portfolio Metro With Icon
+Portfolio Metro Transform
+Portfolio Metro Zooming
+
+OTHER – BOXED LAYOUTS
+Portfolio Image Gallery
+Portfolio Justified
+Portfolio Carousel
+Portfolio Parallax
+-----------------------------------
+SINGLE PROJECT PAGE
+Single Project Page 01
+Single Project Page 02
+Single Project Page 03
+Single Project Page 04
+Single Project Page 05
+Single Project Page 06
+Single Project Page 07
+Single Project Page 08
+
+PORTFOLIO COLUMNS
+Portfolio Two Columns
+Portfolio Three Columns
+Portfolio Four Columns
+Portfolio Five Columns
+
+sub4 -----------------------
+-BLOG-
+
+Blog Standard
+sub4-1 ---------------------
+    Blog Standard – Full Width
+    Blog Standard With Left Sidebar
+    Blog Standard With Right Sidebar
+
+Blog Classic
+sub4-2 ---------------------
+    Blog Classic
+    Blog Classic – Full Width
+
+Blog List
+
+Blog Grid
+
+Blog Masonary
+
+Blog Simple
+
+Blog Clean
+
+Blog Images
+
+Blog Only Text
+
+Post Layout
+
+Post Type
+
+sub5 ------------------
+-ELEMENTS-
+GENERAL ELEMENTS
+Accordions
+Buttons
+Team
+Team Carousel
+Clients
+Client Carousel
+Subscribe
+Call To Action
+Tab
+Google Map
+Text Slider
+Contact Form
+Image Gallery
+
+INFOGRAPHICS / ICONS
+Process Bar
+Icon With Text
+Overline Icon Box
+Custom Icon With Text
+Counters
+Countdown
+Pie Charts
+Text Box
+Fancy Text Box
+
+INTERACTIVE ELEMENTS
+Testimonials
+Testimonials Carousel
+Video
+Interactive Banners
+Services
+Portfolio Slider
+Info Banner
+Rotate Box
+Process Step
+Blog Posts
+Instagram
+Parallax Scrolling
+
+TEXT & CONTAINERS
+Heading
+Dropcaps
+Columns
+Blockquote
+Highlights
+Message Box
+Social Icons
+Lists
+Separators
+Pricing Table
+
+sub6 --------------------
+-FEATURES-
+sub6-1 -----------------
+HEADER STYLES
+Transparent Header
+White Header
+Dark Header
+Header With Push
+Center Navigation
+Center Logo
+Top Logo
+One Page Navigation
+Hamburger Menu
+Hamburger Menu Half
+Left Menu Classic
+Left Menu Modern
+
+sub6-2 -----------------
+FOOTER
+Footer Standard
+Footer Standard Dark
+Footer Classic
+Footer Classic Dark
+Footer Clean
+Footer Clean Dark
+Footer Modern
+Footer Modern Dark
+Footer Center Logo
+Footer Center Logo Dark
+Footer Strip
+Footer Strip Dark
+Footer Center Logo 02
+Footer Center Logo 02 Dark
+Footer Clean Modern Dark
+Footer Clean Modern
+
+sub6-3 -----------------
+PAGE TITLE
+Left Alignment
+Right Alignment
+Center Alignment
+Dark Style
+Big Typography
+Parallax Image Background
+Image After Breadcrumbs
+Gallery Background
+Background Video
+Mini Version
+
+sub6-4 -----------------
+GALLERY
+Single Image Lightbox
+Lightbox Gallery
+Zoom Gallery
+Metro Gallery
+Justified Gallery
+Popup With Form
+Modal Popup
+Open Youtube Video
+Open Vimeo Video
+Open Google Map
